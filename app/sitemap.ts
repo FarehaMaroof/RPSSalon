@@ -2,7 +2,6 @@ import React from 'react';
 import type { Metadata, Viewport } from 'next';
 import { Cormorant_Garamond, DM_Sans } from 'next/font/google';
 import '../styles/tailwind.css';
-import "./globals.css";
 
 const cormorantGaramond = Cormorant_Garamond({
   subsets: ['latin'],
